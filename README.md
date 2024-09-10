@@ -37,9 +37,3 @@ The project can be integrated into FPGA-based image processing pipelines and ext
 - Verilog simulation tool (e.g., ModelSim, Icarus Verilog)
 - Basic understanding of Verilog and image processing
 - FPGA platform (optional for hardware testing)
-
-### Simulation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/verilog-image-processor.git
